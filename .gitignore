@@ -50,3 +50,9 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+bin
+test/data
+test/gen
+test/result
+test/test_result.sbf
